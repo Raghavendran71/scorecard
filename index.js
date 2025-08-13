@@ -12,21 +12,21 @@ let scorea = 0
 
 
 
-function plusoneh() {
+function plusone1() {
    scoreh += 1
    homeSc.textContent = scoreh
     
     
 }
 
-function plustwoh() {
+function plustwo1() {
     
    scoreh += 2
    homeSc.textContent = scoreh
     
 }
 
-function plusthreeh() {
+function plusthree1() {
     
     scoreh += 3
    homeSc.textContent = scoreh
