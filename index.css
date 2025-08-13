@@ -1,6 +1,7 @@
 body {
     margin: 0;
-    background-color: #0C4A6E;
+    background-image: url("pexels-king-siberia-1123639-2277978.jpg");
+    background-size: cover; 
     
 }
 
